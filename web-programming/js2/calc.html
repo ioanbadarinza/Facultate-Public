@@ -8,6 +8,11 @@
 			      return !isNaN(n);
 			}
 
+			function validateDivide(n)
+			{
+				return validate(n) && (n != 0);
+			}
+
 			function calculate(operation) {
 				if (initCalculator()) {
 					var result = document.getElementById('resultSpan');
@@ -16,8 +21,21 @@
 							result.innerHTML = calculator.a + calculator.b;
 							break;
 						};
+						case "subtract": {
+							result.innerHTML = calculator.a - calculator.b;	
+							break;
+						};
 						case "multiply": {
 							result.innerHTML = calculator.a * calculator.b;	
+							break;
+						};
+						case "divide": {
+							if (!validateDivide(calculator.b))
+							{
+								alert("Cannot divide by zero!");
+								return;
+							}
+							result.innerHTML = calculator.a / calculator.b;	
 							break;
 						};
 						default: {
@@ -31,8 +49,16 @@
 				calculate("add");
 			}
 
+			function subtract() {
+				calculate("subtract");
+			}
+
 			function multiply() {
 				calculate("multiply");
+			}
+
+			function divide() {
+				calculate("divide");
 			}
 
 			function initCalculator() {
@@ -58,7 +84,9 @@
 	<body>
 			<input type="text" id="inputOne">
 			<input type="button" value="+" onclick="add()">
+			<input type="button" value="-" onclick="subtract()">
 			<input type="button" value="*" onclick="multiply()">
+			<input type="button" value="/" onclick="divide()">
 			<input type="text" id="inputTwo">
 			=
 			<span id="resultSpan">
