@@ -2,7 +2,7 @@
 	<head>
 		<script type="text/javascript">
 
-			var calculator = {};
+			let calculator = {};
 
 			function validate(n) {
 			      return !isNaN(n);
@@ -10,7 +10,7 @@
 
 			function calculate(operation) {
 				if (initCalculator()) {
-					var result = document.getElementById('resultSpan');
+					const result = document.getElementById('resultSpan');
 					switch (operation) {
 						case "add": {
 							result.innerHTML = calculator.a + calculator.b;
@@ -36,10 +36,10 @@
 			}
 
 			function initCalculator() {
-				var inputOne = document.getElementById("inputOne");
-				var inputTwo = document.getElementById("inputTwo");
-				var inputOneValue = inputOne.value;
-				var inputTwoValue = inputTwo.value;
+				let inputOne = document.getElementById("inputOne");
+				let inputTwo = document.getElementById("inputTwo");
+				let inputOneValue = inputOne.value;
+				let inputTwoValue = inputTwo.value;
 
 				if (!validate(inputOneValue) || !validate(inputTwoValue)) {
 					console.log("ERROR");
