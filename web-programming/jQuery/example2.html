@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>
+        #btn1 {
+            width: 300px;
+            position: absolute;
+            top: 0px;
+        }
+        #btn2 {
+            width: 300px;
+            position: absolute;
+            top: 220px;
+        }
+        div {
+            height: 200px;
+        }
+    </style>
+    <script src="jquery-3.4.1.min.js"></script>
+    <script>
+        let interchanged = false;
+        $(document).ready(function(){
+            $("button").click(function(){
+                if (interchanged) {
+                    $("#btn1").animate({top: '0px'}, "slow");
+                    $("#btn2").animate({top: '220px'}, "slow");
+                } else {
+                    $("#btn1").animate({top: '220px'}, "slow");
+                    $("#btn2").animate({top: '0px'}, "slow");
+                }
+                interchanged = !interchanged;
+            });
+        });
+    </script>
+</head>
+
+<body>
+<p><button id="btn1" class="btn btn-primary">Caption 1</button></p>
+<div></div>
+<p><button id="btn2" class="btn btn-danger">Caption 2</button></p>
+</body>
+
+</html> 
+

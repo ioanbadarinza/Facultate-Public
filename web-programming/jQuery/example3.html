@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .secondP {
+            position: absolute;
+        }
+    </style>
+    <script src="jquery-3.4.1.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("p.voodoo").on("click", function(){
+                $(this).fadeOut(2000);
+                $(this).css("background-color","#ddff00");
+            });
+        });
+    </script>
+</head>
+
+<body>
+<p>If you click on me, I will NOT disappear.</p>
+<p id="secondP" class="voodoo">If you click on me, I will disappear.</p>
+</body>
+
+</html> 
+
