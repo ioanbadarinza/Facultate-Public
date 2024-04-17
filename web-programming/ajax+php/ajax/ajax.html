@@ -2,7 +2,7 @@
   <head>
     <script type="text/javascript">
 
-      var xmlhttp;
+      let xmlhttp;
 
       function getStudents() {
         xmlhttp = getXmlHttpObject();
@@ -12,7 +12,7 @@
         }
 
 
-        var url = "showTable.php";
+        let url = "showTable.php";
         url += "?groupId=1&limit=5";
         xmlhttp.onreadystatechange = stateChanged;
 
