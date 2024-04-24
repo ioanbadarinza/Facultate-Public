@@ -1,0 +1,25 @@
+<html>
+<head>
+    <script type="text/javascript">
+
+        function getStudents() {
+            let url = "showTable.php";
+            url += "?groupId=1&limit=5";
+            fetch(url, {method: "GET"})
+                .then(x => {
+                    return x.text();
+                })
+                .then(y => {
+                    document.getElementById("maindiv").innerHTML = y;
+                });
+        }
+
+    </script>
+</head>
+
+<body>
+Lista studentilor:
+<div id="maindiv"></div>
+<input type="button" value="Load Students" onclick="getStudents()"/>
+</body>
+</html>
