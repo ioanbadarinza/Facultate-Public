@@ -40,12 +40,11 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    (Întârzierile vor fi penalizate cu un punct pe săptămână).
 
 
-3. **Tema EJB & JPA** 
-   - Instalarea / configurarea pe calculatoarele proprii a AS WildFly, GlassFish, inclusiv configurarea conectării la un SGBD, altul decât cel implicit al fiecărui AS.
-   - Realizarea unei aplicații care să folosească EJB, JPA, Servleturi, eventual JSP. Aplicația va trebui să conțină un server ce să gestioneze minimum două tabele în DB care să aibă relații între ele. Mai trebuie să conțină doi clienți, unul care să apeleze serverul prin JNDI, celălalt să folosească injectarea EJB.
-   - Deploy și execuție a aplicației folosind cei patru clienți.
+3. **Tema Baze de date** 
+   - Instalarea / configurarea pe calculatoarele proprii a următoarelor baze de date: PostgreSQL, MicrosoftSQL, Oracle.
+   - Realizarea unei aplicații care să folosească EJB, JPA, Servleturi, eventual JSP. Aplicația va trebui să conțină un 
+   server ce să gestioneze minimum două tabele în DB care să aibă relații între ele.
    - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)!
-
    - **Data limită**: 12 ianuarie 2025  
     (Întârzierile vor fi penalizate cu un punct pe săptămână).
 
