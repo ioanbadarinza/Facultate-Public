@@ -28,7 +28,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
 
 2. **Tema Servlet**
     - Instalarea / configurarea pe calculatoarele proprii a unor servere de aplicații (AS): containerele Tomcat, Jetty
-      și serverele WildFly, GlassFish.
+      și WildFly.
 
    - Realizarea unei aplicații relevante ce folosește servleturi. Sunt necesare minimum două servleturi care să comunice
      între ele, eventual unul pe post de dispecer. 
