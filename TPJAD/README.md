@@ -72,8 +72,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    - Pentru fiecare proiect se cer:
       - Documentația proiectului care să respecte cerințe minimale docs! În plus, trebuie să conțină: arhitectura, 
      precizarea intrărilor și explicarea ieșirilor, capturi semnificative, descrierea implementării până la nivel de 
-     funcționalitate a fiecărei metode; structura de directoare, fișierele (în principal sursele comentate) și arhivele 
-     folosite în aplicație.
+     funcționalitate a fiecărei metode; structura de directoare, fișierele (în principal sursele comentate) și arhivele folosite în aplicație. (Documentatia trebuie sa fie asemanatoare cu partea din lucrarea de licenta unde ati descris aplicatia implementata).
       - Demonstrarea funcționalității aplicației, incluzând o suita de teste pentru partea principală a funcționării 
      proiectului.
       - Se va menționa cu precizie contribuția fiecărui membru al echipei. 
