@@ -85,7 +85,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
 ## Criterii de Notare
 
 - **Tema Servlet**: 20%
-- **Tema EJB & JPA**: 20%
+- **Tema Baze de date**: 20%
 - **Referat**: 20%
 - **Proiect**: 20%
 - **Examen Scris**: 20%
