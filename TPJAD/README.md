@@ -45,7 +45,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    - Realizarea unei aplicații care să folosească EJB, JPA, Servleturi, eventual JSP. Aplicația va trebui să conțină un 
    server ce să gestioneze minimum două tabele în DB care să aibă relații între ele.
    - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)!
-   - **Data limită**: 12 ianuarie 2025  
+   - **Data limită**: 15 decembrie 2025  
     (Întârzierile vor fi penalizate cu un punct pe săptămână).
 
 
@@ -102,7 +102,7 @@ Nota finală = 20% Servlet + 20% EJB_JPA + 20% Referat + 20% Proiect + 20% Exame
 
 - **Alegerea temei pentru referat**: 10 noiembrie 2024
 - **Termen limită Tema Servlet**: 30 noiembrie 2024
-- **Termen limită Tema EJB & JPA**: 12 ianuarie 2025
+- **Termen limită Tema Baze de date**: 15 decembrie 2025
 - **Termen limită pentru Referat**: 12 ianuarie 2025
 - **Termen limită pentru Proiect**: Până la sfârșitul semestrului
 
