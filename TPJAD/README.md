@@ -45,7 +45,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    - Realizarea unei aplicații care să folosească EJB, JPA, Servleturi, eventual JSP. Aplicația va trebui să conțină un 
    server ce să gestioneze minimum două tabele în DB care să aibă relații între ele.
    - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)!
-   - **Data limită**: 15 decembrie 2025  
+   - **Data limită**: 15 decembrie 2024  
     (Întârzierile vor fi penalizate cu un punct pe săptămână).
 
 
@@ -55,7 +55,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
       tema propusă este adiacentă cu tematica cursului TPJAD. Alegerea temei de referat se va face până la 10.11.2024. 
     - Pentru acceptare se cere:
          - **Data limită pentru alegerea temei**: 10 noiembrie 2024, se face prin completarea formularului: [Formular alegere tema referat](https://docs.google.com/forms/d/e/1FAIpQLSfVadGnQzDXGqD-zi1HzARnlRVM37EjwasDgujeNrbMbneJwA/viewform?usp=sf_link)
-         - **Data limită de predare**: 12 ianuarie 2024, se face prin completarea formularului: [Formular incarcare referat](https://docs.google.com/forms/d/e/1FAIpQLSeP_LVBJu53rEbixz53nidb3Sk94vqe6C14kC2eCJ6x4Tkpyw/viewform?usp=sf_link)
+         - **Data limită de predare**: 12 ianuarie 2025, se face prin completarea formularului: [Formular incarcare referat](https://docs.google.com/forms/d/e/1FAIpQLSeP_LVBJu53rEbixz53nidb3Sk94vqe6C14kC2eCJ6x4Tkpyw/viewform?usp=sf_link)
          (Prezentarea este necesară; în caz contrar, nota se va reduce cu 30%).
 
 
@@ -102,7 +102,7 @@ Nota finală = 20% Servlet + 20% EJB_JPA + 20% Referat + 20% Proiect + 20% Exame
 
 - **Alegerea temei pentru referat**: 10 noiembrie 2024
 - **Termen limită Tema Servlet**: 30 noiembrie 2024
-- **Termen limită Tema Baze de date**: 15 decembrie 2025
+- **Termen limită Tema Baze de date**: 15 decembrie 2024
 - **Termen limită pentru Referat**: 12 ianuarie 2025
 - **Termen limită pentru Proiect**: Până la sfârșitul semestrului
 
