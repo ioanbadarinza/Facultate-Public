@@ -56,7 +56,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
     - Pentru acceptare se cere:
          - **Data limită pentru alegerea temei**: 10 noiembrie 2024, se face prin completarea formularului: [Formular alegere tema referat](https://docs.google.com/forms/d/e/1FAIpQLSfVadGnQzDXGqD-zi1HzARnlRVM37EjwasDgujeNrbMbneJwA/viewform?usp=sf_link)
          - **Data limită de predare**: 12 ianuarie 2025, se face prin completarea formularului: [Formular incarcare referat](https://docs.google.com/forms/d/e/1FAIpQLSeP_LVBJu53rEbixz53nidb3Sk94vqe6C14kC2eCJ6x4Tkpyw/viewform?usp=sf_link)
-         (Prezentarea este necesară; în caz contrar, nota se va reduce cu 30%).
+         (Prezentarea este necesară; în caz contrar, nota se va reduce cu 50%).
 
 
 5. **Proiect de Aplicație Distribuită**
