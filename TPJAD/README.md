@@ -95,7 +95,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
 nepromovarea cursului.
 - Studenţii restanţieri sunt obligaţi să susţină, în condiţiile de mai sus, doar cerinţele 1-5 nepromovate în anul precedent.
 
-Nota finală = 20% Servlet + 20% EJB_JPA + 20% Referat + 20% Proiect + 20% Examen
+Nota finală = 20% Servlet + 20% DB + 20% Referat + 20% Proiect + 20% Examen
 ---
 
 ## Date Importante
