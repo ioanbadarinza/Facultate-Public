@@ -78,7 +78,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
      proiectului.
       - Se va menționa cu precizie contribuția fiecărui membru al echipei. 
       - Proiectul trebuie prezentat în prezența întregii echipe, fiecare membru va prezenta o parte din proiect. Prezentarea se poate face până la sfârșitul semestrului sau în ziua examenului, după susținerea probei scrise.
-      - [Folositi acest formular pentru alegerea proiectului(https://docs.google.com/forms/d/e/1FAIpQLSeGT9nARnjqCpclp4fF9t4fdyT7cr6E40HLEeiROiQ8NIyAKw/viewform?usp=sf_link)
+      - [Folositi acest formular pentru alegerea proiectului](https://docs.google.com/forms/d/e/1FAIpQLSeGT9nARnjqCpclp4fF9t4fdyT7cr6E40HLEeiROiQ8NIyAKw/viewform?usp=sf_link)
       - [Consultati acest Spreadsheet pentru proiectele aleste si va rog sa nu alegeti din cele folosite](https://docs.google.com/spreadsheets/d/1JBdyxpMl4rSK6O9EuckZcicDTNwC2UlSj1AbVlA3unA/edit?usp=sharing)
       - **Data limită**: Până la sfârșitul semestrului (Proiectul trebuie prezentat de întreaga echipă).
 
