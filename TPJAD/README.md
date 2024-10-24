@@ -102,7 +102,7 @@ Nota finală = 20% Servlet + 20% DB + 20% Referat + 20% Proiect + 20% Examen
 
 ## Date Importante
 
-- **Alegerea temei pentru referat**: 10 noiembrie 2024
+- **Alegerea temei pentru referat si proiect aplicatie distribuita**: 10 noiembrie 2024
 - **Termen limită Tema Servlet**: 30 noiembrie 2024
 - **Termen limită Tema Baze de date**: 15 decembrie 2024
 - **Termen limită pentru Referat**: 12 ianuarie 2025
