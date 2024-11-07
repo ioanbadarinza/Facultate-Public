@@ -67,7 +67,7 @@
 64. RMI cu activare
 65. Castor XML Mapping
 66. Framework-ul Stripes
-67. Adobe Flash
+67. ~Adobe Flash~
 68. Tabele hash distribuite (DHT): Chord in Java
 69. Hardcore Java: Colectii
 70. Hibernate – implementari in Java, .NET, PHP, Python
