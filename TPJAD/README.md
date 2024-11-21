@@ -110,6 +110,8 @@ Nota finală = 20% Servlet + 20% DB + 20% Referat + 20% Proiect + 20% Examen
 - **Termen limită pentru Referat**: 12 ianuarie 2025
 - **Termen limită pentru Proiect**: Până la sfârșitul semestrului
 
+**[Planificari sustineri referate si aplicatii](https://docs.google.com/spreadsheets/d/1YwFFN7POuMVwG0GCa41F7sHOCHnXPrYel_d45imjtrI/edit?usp=sharing)**
+**Pentru planificari trimiteti un mesaj pe Teams / Email catre subsemnatul**
 ---
 
 ## Contact și Suport
