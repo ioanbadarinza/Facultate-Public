@@ -112,7 +112,7 @@ Nota finală = 20% Servlet + 20% DB + 20% Referat + 20% Proiect + 20% Examen
 
 **[Planificari sustineri referate si aplicatii](https://docs.google.com/spreadsheets/d/1YwFFN7POuMVwG0GCa41F7sHOCHnXPrYel_d45imjtrI/edit?usp=sharing)**
 
-**Pentru planificari trimiteti un mesaj pe Teams / Email catre subsemnatul**
+### **Pentru planificari trimiteti un mesaj pe Teams / Email catre subsemnatul**
 ---
 
 ## Contact și Suport
