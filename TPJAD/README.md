@@ -31,7 +31,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
       și WildFly.
 
    - Realizarea unei aplicații relevante ce folosește servleturi. Sunt necesare minimum două servleturi care să comunice
-     între ele, eventual unul pe post de dispecer. 
+     între ele (comunicare prin requesturi HTTP/Mesaje/etc. (similar cum ar comunica niste microservicii intre ele)). 
    - Deploy și execuție a aplicației prin modalitățile de deploy: arhive WAR pe cele trei AS; context extern (fără WAR!)
      pentru Tomcat și Jetty; aplicații embedded pentru Tomcat și Jetty.
    - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)!
