@@ -33,6 +33,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    - Realizarea unei aplicații relevante ce folosește servleturi. Sunt necesare minimum două servleturi care să comunice
      între ele (comunicare prin requesturi HTTP/Mesaje/etc. (similar cum ar comunica niste microservicii intre ele)). 
    - Deploy și execuție a aplicației pe urmatoarele servere in acelasi timp: Tomcat, Jetty și WildFly
+   - este necesara o interfata grafica de interactiune cu utilizatorul (User Interface)
    - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)!
    
    - **Data limită**: 30 noiembrie 2024  
@@ -44,6 +45,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    - Realizarea unei aplicații care să folosească EJB, JPA, Servleturi, eventual JSP. Aplicația va trebui să conțină un 
    server ce să gestioneze minimum două tabele în DB care să aibă relații între ele.
    - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)!
+   - este necesara o interfata grafica de interactiune cu utilizatorul (User Interface)
    - **Data limită**: 15 decembrie 2024  
     (Întârzierile vor fi penalizate cu un punct pe săptămână).
 
