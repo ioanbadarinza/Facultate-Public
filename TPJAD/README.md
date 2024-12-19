@@ -41,7 +41,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
 
 
 3. **Tema Baze de date** 
-   - Instalarea / configurarea pe calculatoarele proprii a următoarelor baze de date: PostgreSQL, MicrosoftSQL, Oracle.
+   - Instalarea / configurarea pe calculatoarele proprii a următoarelor baze de date: PostgreSQL, MicrosoftSQL, OracleDB.
    - Realizarea unei aplicații care să folosească EJB, JPA, Servleturi, eventual JSP.
    - Aplicația va trebui să conțină cel putin cate un tabel in fiecare DB. Tabele din fiecare DB trebuie sa fie diferite si sa aibe legaturi intre ele.
    - Aplicatia trebuie sa implemeteze toate actiunile CRUD (Create, Read, Update, Delete).
