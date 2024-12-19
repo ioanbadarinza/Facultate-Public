@@ -3,6 +3,7 @@
 Documentaţia va fi prezentată, după preferinţă, sub forma unui fişier text, doc, docx, rtf, pdf, html. Ea trebuie să respecte urmtoarele cerinţe:
 - Să fie redactată fie numai în română fie numai în engleză.
 - Pentru acoperirea rezonabilă a subiectului, să aibă minimum 3 pagini (eventual maximum 10 pagini).
+- Font de 12
 - Inceputul trebuie să conţină numele şi grupa studentului, titlul lucrării descrise.
 - Să descrie succint elementele esenţiale ale soluţiei adoptate: aspecte teoretice, apeluri sistem folosite, succesiunea prelucrărilor etc. Se pot prezenta şi soluţii alternative, chiar dacă acestea nu vor fi implementate.
 - Trebuie descrise toate obiectele folosite, fără a include textul sursă. Se vor prezenta numai prototipurile metodelor (nume, parametri, return) şi ale constructorilor obiectului, descrierea făcând referire la numele acestor parametri. Se vor prezenta eventualele excepţii aruncate.
