@@ -44,7 +44,7 @@ hours what he/she was supposed to do a whole semester (i.e. 12/14 weeks).
 
 
 
-## Particular Requirements for Mathematics and Computer Science section (Mate-Info)
+## Particular Requirements for Mathematics and Computer Science (Mate-Info)
 Course Requirements:
 The presence at the labs is mandatory. Students are required to **be present to at least 5 labs**.
 
