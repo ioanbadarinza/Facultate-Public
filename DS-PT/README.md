@@ -130,17 +130,17 @@ Evaluation criteria:
 
 - 1p by default
 - 3p for the Regression Algorithm Notebook
-- 1p - data analysis + data transformation
-- 1p - building the model and making predictions
-- 1p - evaluating the model
+    - 1p - data analysis + data transformation
+    - 1p - building the model and making predictions
+    - 1p - evaluating the model
 - 3p for the Classification Algorithm Notebook
-- 1p - data analysis + data transformation
-- 1p - building the model and making predictions
-- 1p - evaluating the model
+    - 1p - data analysis + data transformation
+    - 1p - building the model and making predictions
+    - 1p - evaluating the model
 - 3p for the Clustering Algorithm Notebook
-- 1p - data analysis + data transformation
-- 1p - building the model and making predictions
-- 1p - evaluating the model
+    - 1p - data analysis + data transformation
+    - 1p - building the model and making predictions
+    - 1p - evaluating the model
 
 **Deadline lab 5.**
 
@@ -252,4 +252,11 @@ For example, you can have some inputs generated automatically based on the colum
 he/she selects the columns that will be provided as features for the algorithm).
 
 
+Evaluation criteria:
 
+- 1p by default
+- 1-9 - 3
+- 10 - 3p
+- 11 - 3p
+
+---
