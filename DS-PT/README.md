@@ -146,7 +146,7 @@ Evaluation criteria:
 
 ---
 
-### 4. 4. Python & Scikit-learn assignment
+### 4. Python & Scikit-learn assignment
 
 Pick one of the datasets (together with its model) from Assignment 3, and create a web application for it. You will have
 to save the model from Assignment 3 and load it (do not train it every time you have to do a prediction). Try also to
