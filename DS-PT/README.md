@@ -39,7 +39,7 @@ the maximum mark a student can get for that lab.
 
 ---
 
-### 1. HTML + CC + JS assignment
+### 1. HTML + CSS + JS assignment
 
 Create a web page for your personal profile. The page should have three sections:
 The first section (which should also be the main section (“index.html”/home section)) should contain information about
