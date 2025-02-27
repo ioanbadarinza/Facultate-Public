@@ -90,7 +90,7 @@ Evaluation criteria:
 
 For this project, you will have to work in **teams of two.**
 
-A. You will have to fill
+1. You will have to fill
 in [this document](https://docs.google.com/spreadsheets/d/1e5Pcr07PYe-L9X1skOxgqxUbduMZiNRkbmlQyvrf2P0/edit?gid=0#gid=0)
 with the required data as follows:
 
@@ -104,7 +104,7 @@ with the required data as follows:
   prediction
 - Comments - any additional comments/questions
 
-B. Choose 3 datasets from wherever you want. I recommend [https://www.kaggle.com/](https://www.kaggle.com/) which is a
+2. Choose 3 datasets from wherever you want. I recommend [https://www.kaggle.com/](https://www.kaggle.com/) which is a
 platform where you can find a lot of datasets for free. Check the previous document to see if the database you want to
 use is not already used by another team. In that case, you have to use a different dataset.
 
@@ -116,7 +116,7 @@ use is not already used by another team. In that case, you have to use a differe
 When choosing the datasets, make sure that you will be able to apply the prediction algorithms that you have to use for
 this.
 
-C. For each dataset create a Google Colab (or JupyterLab) Notebook that will contain the following:
+3. For each dataset create a Google Colab (or JupyterLab) Notebook that will contain the following:
 
 - Perform thorough data analysis (this should include at least 1 or 2 types of charts)
 - Perform any type of data transformation/cleaning (if needed)
