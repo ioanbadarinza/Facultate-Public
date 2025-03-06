@@ -47,7 +47,7 @@ yourself: name, date of birth, education, places you’ve lived, etc. (informati
 Facebook page).
 The second section should contain information about your professional work experience/education (which you also have
 on your Linkedin profile).
-Information about your hobbies/passions etc.
+And the third section should contain information about your hobbies/passions etc.
 The page should have a clean design (of your choice) and should contain at least 3 relevant animations (done with CSS)
 (of your choice).
 The details (name, date of birth, etc.) you expose on this page should be kept in one or multiple (at your choice) JSON
