@@ -149,9 +149,9 @@ Evaluation criteria:
 ### 4. Python & Scikit-learn assignment
 
 Pick one of the datasets (together with its model) from Assignment 3, and create a web application for it. You will have
-to save the model from Assignment 3 and load it (do not train it every time you have to do a prediction). Try also to
-pay
-attention to the design of the web application.
+to save the model from Assignment 3 and load it (do not train it every time you have to do a prediction). A user should 
+log in before using the application. Make sure that multiple users 
+can use the application in the same design of the web application is very important and it needs to be user-friendly. 
 You can use any Javascript framework, any CSS framework, and any Python framework that you’d like.
 The application should have the following features (suggestion: you can create 1 API/REST endpoint for each point):
 
@@ -178,7 +178,7 @@ The user should have the possibility to:
 
 ![Alt text](tail.jpg)
 
-6. Have a way to input some data and a link/button and when he/she clicks on it, that data is sent to the server and the
+6. Have a way to input some data and a link/button and when he/she clicks on it, that data is sent to the server, and the
    server
    will use the trained model to make a prediction and return that prediction back and display it to the client.
 
@@ -187,12 +187,13 @@ The user should have the possibility to:
 Evaluation criteria:
 
 - 1p by default
+- 2p for design and authentication & authorization
 - 1p for feature 1
 - 1p for feature 2
-- 1.5p for feature 3
-- 1.5p for feature 4
-- 1.5p for feature 5
-- 2.5p for feature 6
+- 1p for feature 3
+- 1p for feature 4
+- 1p for feature 5
+- 2p for feature 6
 
 **Deadline Lab 6.**
 
@@ -200,9 +201,9 @@ Evaluation criteria:
 
 ## Project
 
-Create a web application for managing a data set. Try also to pay attention to the design of the web application. Also,
-make sure that multiple users can use the application in the same.
-The application should have the following features:
+Create a web application for managing a data set. A user should log in before using the application. The design 
+of the web application is very important and it needs to be user-friendly.  Also, make sure that multiple users 
+can use the application in the same. The application should have the following features:
 
 The user should:
 
@@ -255,8 +256,9 @@ he/she selects the columns that will be provided as features for the algorithm).
 Evaluation criteria:
 
 - 1p by default
-- 1-9 - 3
-- 10 - 3p
-- 11 - 3p
+- 1.5p for design and authentication & authorization
+- 1-9 - 2.5p
+- 10 - 2.5p
+- 11 - 2.5p
 
 ---
