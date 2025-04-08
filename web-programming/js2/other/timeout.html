@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script>
+			// Example 1
+			function main(){
+				console.log('A');
+				setTimeout(function display(){ console.log('B'); }  ,0);
+				console.log('C');
+			}
+			main();
+			//	Output:
+			//	A
+			//	C
+			//  B
+
+			// Example 2
+	/*		function main1(){
+				console.log('A');
+				setTimeout(function exec(){ console.log('B'); }, 0);
+				runWhileLoopForNSeconds(3);
+				console.log('C');
+			}
+			main1();*/
+			function runWhileLoopForNSeconds(sec){
+				let start = Date.now(), now = start;
+				while (now - start < (sec*1000)) {
+					now = Date.now();
+				}
+			}
+			// Output :
+			// A
+			// C
+			// B
+		</script>
+	</head>
+
+</html>

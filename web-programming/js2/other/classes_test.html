@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script>
+		class Student {
+			constructor(firstName, lastName) {
+				this.firstName = firstName;
+				this.lastName = lastName;
+				this.grades = [ ];
+			}
+			// Getters & Setters are used to create pseudo-properties. 
+			// You can't use them on a real property (specified in constructor). 
+			get studyYear() { return this.year; }    // getter
+			get specialization()  { return this.spec; }    // getter
+			set studyYear(year) { this.year = year; }    // setter
+			set specialization(spec)  { this.spec = spec; }     // setter
+			// method
+			addGrade(course, grade) { this.grades[course] = grade; }
+			// static method
+			static sayHi(text) {  console.log("This is a student.", text);  }
+		}
+		v = ["David", "Pop"];
+		const stud = new Student(...v);
+		// stud.firstName="Alex";   
+		// stud.lastName="";  
+		stud.studyYear=2; // calling setter
+		stud.specialization="Info EN"; // calling setter
+		stud.addGrade("Web", 8);
+		console.log(stud.firstName+ " " +stud.lastName + ": ", stud.grades);
+		//stud.sayHi("Hi");  // Error. Can not call static method on instance
+		Student.sayHi("Hi");  // properly calling static method
+
+		class Student1 {
+			id = 0;
+			grade;
+			#firstName;
+			#lastName;
+			constructor (id, grade, firstName, lastName) {
+				this.id = id;
+				this.grade = grade;
+				this.#firstName = firstName;
+				this.#lastName = lastName;	
+			}
+		}
+
+		class Person {
+			constructor(firstName, lastName) {
+				this.firstName = firstName;
+				this.lastName = lastName;
+			}
+			sayHi(text) {  console.log("This is " + this.firstName + " " + this.lastName + ". " + text);  }		
+		}
+
+		class Student2 extends Person {
+			constructor(firstName, lastName) {
+				super(firstName, lastName);
+				this.grades = [ ];
+			}
+			sayHi(text) {
+				super.sayHi();
+				console.log("I'm also a student");
+			}
+		}
+
+
+	</script>
+</head>
+<body>
+	<ala>test...ds dfsdf </ala><br/>
+	<bala>dsfs  </bala>s<br/>
+	<portocala>d fsdfse ef efwefwefsefewfe esfsefwefw sefsefs sefsef sfsefefe sefsef </portocala>
+</body>
+
+</html>

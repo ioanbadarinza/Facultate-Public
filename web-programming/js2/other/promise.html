@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript">
+		// Promises can not return anything, they just pass results to callbacks (which are specified with .then())
+		function runWhileLoopForNSeconds(sec){
+				let start = Date.now(), now = start;
+				while (now - start < (sec*1000)) {
+					now = Date.now();
+				}
+				return now;
+			}
+
+		const p = new Promise(function(resolve,reject) {
+			// the asynchronous word - just a console.log()
+			console.log("Doing some work...");
+
+			let t = runWhileLoopForNSeconds(3);
+
+			if (t % 2 === 0) {
+				resolve("DONE");
+			} else {
+				reject("Error");
+			}
+		});
+		// without .then() you can not get the result from the Promise
+		// we assume the Promise p is always resolved
+
+
+		console.log("Working something else.....");
+
+	 	p.then(function(result) { 
+			console.log("result: ", result); // just print the returned result of the Promise
+		}, function(error) {
+			console.log("err: ", error);
+		});
+
+		console.log("Working something NEW NEW NEW.....");
+
+	</script>
+</head>
+<body>
+</body>
+</html>
