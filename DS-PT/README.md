@@ -71,7 +71,7 @@ Evaluation criteria:
 ### 2. Python assignment
 
 Starting from the previous assignment (“1. HTML+CSS+JS Assignment”), we need to create a backend. Before, you had to
-keep all the data in a JSON object, and now we are moving that data to a database. Create a database with three tables,
+keep all the data in a JSON object, and now we are moving that data to a database (SQLite is not accepted). Create a database with three tables,
 one containing data displayed in each section (e.g.: personal data, work experience, and hobbies). Create 3 APIs that
 will return this data. Use these APIs to get the data on UI for each particular section.
 
