@@ -118,7 +118,7 @@ this.
 
 3. For each dataset create a Google Colab (or JupyterLab) Notebook that will contain the following:
 
-- Perform thorough data analysis (this should include at least 1 or 2 types of charts)
+- Perform thorough data analysis (this should include at least 2 types of charts)
 - Perform any type of data transformation/cleaning (if needed)
 - Build the Model using the specified algorithm type: Regression/Classification/Clustering
 - (for 2026) use at least 2 models and comper their resutls
