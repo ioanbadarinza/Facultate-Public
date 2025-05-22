@@ -167,7 +167,7 @@ The user should have the possibility to:
    displayed
    in a table. (you can use the “head” function from the Pandas data frame). Something similar to the following
    screenshot.
-   4Have a link/button and a numeric input to be able to extract the last N rows from the dataset. The rows should be
+4. Have a link/button and a numeric input to be able to extract the last N rows from the dataset. The rows should be
    displayed in
    a table. (you can use the “tail” function from the Pandas data frame). Something similar to the following screenshot.
 
