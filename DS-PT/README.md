@@ -202,7 +202,7 @@ Evaluation criteria:
 
 ## Project
 
-Create a web application for managing a dataset. A user should log in before using the application. The design 
+Create a web application for managing a dataset. A user should log in before using the application. Multiple users should be able to access the application in the same time. The users must be kept in a database. The design 
 of the web application is very important ,and it needs to be user-friendly.  Also, make sure that multiple users 
 can use the application at the same time. The application should have the following features:
 
