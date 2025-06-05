@@ -152,7 +152,7 @@ Evaluation criteria:
 Pick one of the datasets (together with its model) from Assignment 3, and create a web application for it. You will have
 to save the model from Assignment 3 and load it (do not train it every time you have to do a prediction). A user should 
 log in before using the application. Make sure that multiple users 
-can use the application in the same design of the web application is very important and it needs to be user-friendly. 
+can use the application in the same time. The users should be kept in a database.  The design of the web application is very important and it needs to be user-friendly. 
 You can use any Javascript framework, any CSS framework, and any Python framework that you’d like.
 The application should have the following features (suggestion: you can create 1 API/REST endpoint for each point):
 
