@@ -7,7 +7,7 @@ Lect. Dr. Ioan Badarinza
 
 Email: ioan.badarinza@cs.ubbcluj.ro
 
-Cod Teams: op6k72c
+Cod Teams: ef5cfvc
 
 ---
 
