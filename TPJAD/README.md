@@ -32,7 +32,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
 
    - Realizarea unei aplicații relevante ce folosește servleturi. Sunt necesare minimum două servleturi care să comunice
      între ele (comunicare prin requesturi HTTP/Mesaje/etc. (similar cum ar comunica niste microservicii intre ele)). 
-   - Deploy și execuție a aplicației pe urmatoarele servere in acelasi timp: Tomcat, Jetty și WildFly
+   - Deploy și execuție a aplicației pe urmatoarele servere in acelasi timp: Tomcat, Jetty și WildFly (nu din IDE (ex. IntelliJ))
    - este necesara o interfata grafica de interactiune cu utilizatorul (User Interface)
    - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)!
    
