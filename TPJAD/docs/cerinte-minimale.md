@@ -8,7 +8,7 @@ Documentaţia va fi prezentată, după preferinţă, sub forma unui fişier text
 - Să descrie succint elementele esenţiale ale soluţiei adoptate: aspecte teoretice, apeluri sistem folosite, succesiunea prelucrărilor etc. Se pot prezenta şi soluţii alternative, chiar dacă acestea nu vor fi implementate.
 - Trebuie descrise toate obiectele folosite, fără a include textul sursă. Se vor prezenta numai prototipurile metodelor (nume, parametri, return) şi ale constructorilor obiectului, descrierea făcând referire la numele acestor parametri. Se vor prezenta eventualele excepţii aruncate.
 - Să precizeze contextul în care obiectul / componenta poate fi operaţională.
-- Să conţină exemple şi contraexemple de utilizare.
+- Să conţină exemple de utilizare.
 
 Textul va fi redactat într-o manieră sintetică şi va fi scris într-o formă lizibilă. Nivelul de detaliere trebuie să fie suficient de cuprinzător pentru a se înţelege rezolvarea, folosind în acelaşi timp un stil concis, fără o încărcare nejustificată a textului.
 
