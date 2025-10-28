@@ -30,7 +30,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
     - Instalarea / configurarea pe calculatoarele proprii a unor servere de aplicații (AS): containerele Tomcat, Jetty
       și WildFly.
 
-   - Realizarea unei aplicații relevante ce folosește servleturi. Sunt necesare minimum două servleturi care să comunice
+   - Realizarea unei aplicații relevante ce folosește servleturi. Sunt necesare minimum două servleturi (deployed in containere diferite) care să comunice
      între ele (comunicare prin requesturi HTTP/Mesaje/etc. (similar cum ar comunica niste microservicii intre ele)). 
    - Deploy și execuție a aplicației pe urmatoarele servere in acelasi timp: Tomcat, Jetty și WildFly (nu din IDE (ex. IntelliJ))
    - este necesara o interfata grafica de interactiune cu utilizatorul (User Interface)
