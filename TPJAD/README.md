@@ -113,7 +113,7 @@ Nota finală = 20% Servlet + 20% DB + 20% Referat + 20% Proiect + 20% Examen
 - **Termen limită pentru Referat**: Seminar 5 (25 noiembrie - 2 decembrie)
 - **Termen limită pentru Proiect**: Seminar 6 (9 decembrie - Până la sfârșitul semestrului)
 
-**[Planificari sustineri referate si aplicatii](https://docs.google.com/spreadsheets/d/1YwFFN7POuMVwG0GCa41F7sHOCHnXPrYel_d45imjtrI/edit?usp=sharing)**
+**[Planificari sustineri referate si aplicatii](https://docs.google.com/spreadsheets/d/1zY4np2BaDj3sSJQ__b7FywgrhnXgUFD9rPGASHOaSI8/edit?gid=0#gid=0)**
 
 ### **Pentru planificari trimiteti un mesaj pe Teams / Email catre subsemnatul**
 ---
