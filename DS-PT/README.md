@@ -21,8 +21,8 @@ The final mark is computed by using the following formula:
 
 - **14 lectures**: weekly lectures with lots of examples.
   Around week 6-7 you will receive a project that you will have to present in the 14th week, during the lecture
-- **7 Labs**: Every other 2 weeks
-  You will receive 4 assignments which you will have to present during the lab
+- **7 Labs**: Every other 2 weeks. 
+  You will receive 4 assignments, which you will have to present during the lab
 
 ## Intended Learning Outcomes
 
