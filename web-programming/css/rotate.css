@@ -7,9 +7,6 @@ body > div {
     width:200px;
     height:200px;
     margin: 20px auto 0;
-    color:orange;
-    font-size:100px;
-    line-height:1;
     animation: circle 5s linear infinite;
     transform-origin:50% 200px;
 }
