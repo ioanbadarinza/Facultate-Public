@@ -20,7 +20,7 @@ The final mark is computed by using the following formula:
 ## Course Structure
 
 - **14 lectures**: weekly lectures with lots of examples.
-  Around week 6-7 you will receive a project that you will have to present in the 14th week, during the lecture
+  Around week 6-7 you will receive a project that you will have to present in the 13th and 14th week, during the lecture
 - **7 Labs**: Every other 2 weeks. 
   You will receive 4 assignments, which you will have to present during the lab
 
@@ -261,5 +261,7 @@ Evaluation criteria:
 - 1-9 - 2.5p
 - 10 - 2.5p
 - 11 - 2.5p
+
+**Deadline week 13 and 14.**
 
 ---
