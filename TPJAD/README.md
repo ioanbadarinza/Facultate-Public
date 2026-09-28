@@ -121,4 +121,4 @@ Nota finală = 20% Servlet + 20% DB + 20% Referat + 20% Proiect + 20% Examen
 ## Contact și Suport
 
 - Pentru suport tehnic și întrebări, contactați Lect. Ioan Badarinza prin Teams & email.
-- Materialele cursului, inclusiv slide-urile și documentațiile aferente, sunt disponibile [aici](TBA).
+- Materialele cursului, inclusiv slide-urile și documentațiile aferente, sunt disponibile pe grupul Teams.
