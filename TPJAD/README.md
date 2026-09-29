@@ -1,6 +1,6 @@
 # Tehnologii și Platforme Java pentru Aplicații Distribuite
 
-## Program de Master: Semestrul 1 (2025-2026)
+## Program de Master: Semestrul 1 (2026-2027)
 
 **Titular de curs**:  
 Lect. Dr. Ioan Badarinza
@@ -36,7 +36,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    - este necesara o interfata grafica de interactiune cu utilizatorul (User Interface)
    - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)!
    
-   - **Data limită**: Seminar 3 (28 octombrie)
+   - **Data limită**: Seminar 3 (5 noiembrie)
    (Întârzierile vor fi penalizate cu un punct pe săptămână).
 
 
@@ -47,19 +47,19 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    - Aplicatia trebuie sa implemeteze toate actiunile CRUD (Create, Read, Update, Delete).
    - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)!
    - este necesara o interfata grafica de interactiune cu utilizatorul (User Interface)
-   - **Data limită**: Seminar 4 (11 noiembrie)  
+   - **Data limită**: Seminar 4 (19 noiembrie)  
     (Întârzierile vor fi penalizate cu un punct pe săptămână).
 
 
 4. **Referat**
     - Realizarea unui referat pe temă aleasă de student din [PropuneriReferate](docs/propuneri-referate.md). 
       Se poate propune întocmirea unui referat pe o temă proprie, de comun acord cu cadrul didactic, dacă 
-      tema propusă este adiacentă cu tematica cursului TPJAD. Alegerea temei de referat se va face până la 10.11.2024. 
+      tema propusă este adiacentă tematicii cursului TPJAD. Alegerea temei de referat se va face până la 10 noiembrie. 
     - Pentru acceptare se cere:
          - minim 6 pagini (ar trebui minim 9 pagini)
          - [format IEEE](https://www.ieee.org/conferences/publishing/templates.html)  (can be found in Overleaf too)
-         - **Data limită pentru alegerea temei**: 10 noiembrie 2025, se face prin completarea formularului: [Formular alegere tema referat](https://docs.google.com/forms/d/e/1FAIpQLSfVadGnQzDXGqD-zi1HzARnlRVM37EjwasDgujeNrbMbneJwA/viewform?usp=sf_link)
-         - **Data limită de predare**: Seminar 5 (25 noiembrie - 2 decembrie). Incarcarea se face prin completarea formularului: [Formular incarcare referat](https://docs.google.com/forms/d/e/1FAIpQLSeP_LVBJu53rEbixz53nidb3Sk94vqe6C14kC2eCJ6x4Tkpyw/viewform?usp=sf_link)
+         - **Data limită pentru alegerea temei**: 10 noiembrie, se face prin completarea formularului: [Formular alegere tema referat](https://docs.google.com/forms/d/e/1FAIpQLSfVadGnQzDXGqD-zi1HzARnlRVM37EjwasDgujeNrbMbneJwA/viewform?usp=sf_link)
+         - **Data limită de predare**: Seminar 5 (3 decembrie). Incarcarea se face prin completarea formularului: [Formular incarcare referat](https://docs.google.com/forms/d/e/1FAIpQLSeP_LVBJu53rEbixz53nidb3Sk94vqe6C14kC2eCJ6x4Tkpyw/viewform?usp=sf_link)
          (Prezentarea este necesară; în caz contrar, nota se va reduce cu 50%).
          - **[Referate alese](https://docs.google.com/spreadsheets/d/1Ap_L_4pM87LhTBScaVh7WCuxbdeXJI7nrvyOqnngsYw/edit?usp=sharing)**
          - colegii trebuie sa aibe cel putin 2 intrebari dupa prezentare
@@ -69,7 +69,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    - Proiectul va avea implementare majoritară folosind tehnologii Java. Proiectul este elaborat de un colectiv 
    de 2-4 studenți. Tema este stabilită de comun acord cu echipa, aleasă din [PropuneriProiecte](docs/propuneri-proiecte.md). 
    Se poate propune un proiect pe o temă proprie, de comun acord cu cadrul didactic, și dacă tema propusă este adiacentă cu tematica 
-   cursului TPJAD. Alegerea temei de proiect se va face până la 10.11.2024. Un draft al conținutului proiectului va fi 
+   cursului TPJAD. Alegerea temei de proiect se va face până la 10.11.2027. Un draft al conținutului proiectului va fi 
    discutat cu echipa prin mail / întâlnire online în cadrul seminarului.
 
    - Pentru componentele view se recomandă folosirea unor tehnologii de nivel mai înalt decât JSP (în caz contrar este
@@ -85,7 +85,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
       - Proiectul trebuie prezentat în prezența întregii echipe, fiecare membru va prezenta o parte din proiect. Prezentarea se poate face până la sfârșitul semestrului sau în ziua examenului, după susținerea probei scrise.
       - [Folositi acest formular pentru alegerea proiectului](https://docs.google.com/forms/d/e/1FAIpQLSeGT9nARnjqCpclp4fF9t4fdyT7cr6E40HLEeiROiQ8NIyAKw/viewform?usp=sf_link)
       - [Consultati acest Spreadsheet pentru proiectele aleste si va rog sa nu alegeti din cele folosite](https://docs.google.com/spreadsheets/d/1JBdyxpMl4rSK6O9EuckZcicDTNwC2UlSj1AbVlA3unA/edit?usp=sharing)
-      - **Data limită**: Seminar 6 (9 decembrie - Până la sfârșitul semestrului (Proiectul trebuie prezentat de întreaga echipă)).
+      - **Data limită**: Seminar 6 (17 decembrie - Până la sfârșitul semestrului (Proiectul trebuie prezentat de întreaga echipă)).
 
 ---
 
@@ -107,11 +107,11 @@ Nota finală = 20% Servlet + 20% DB + 20% Referat + 20% Proiect + 20% Examen
 
 ## Date Importante
 
-- **Alegerea temei pentru referat si proiect aplicatie distribuita**: 10 noiembrie 2025
-- **Termen limită Tema Servlet**: Seminar 3 (28 octombrie)
-- **Termen limită Tema Baze de date**: Seminar 4 (11 noiembrie) 
-- **Termen limită pentru Referat**: Seminar 5 (25 noiembrie - 2 decembrie)
-- **Termen limită pentru Proiect**: Seminar 6 (9 decembrie - Până la sfârșitul semestrului)
+- **Alegerea temei pentru referat si proiect aplicatie distribuita**: 10 noiembrie 2026
+- **Termen limită Tema Servlet**: Seminar 3 (5 noiembrie)
+- **Termen limită Tema Baze de date**: Seminar 4 (19 noiembrie) 
+- **Termen limită pentru Referat**: Seminar 5 (3 decembrie)
+- **Termen limită pentru Proiect**: Seminar 6 (17 decembrie - Până la sfârșitul semestrului)
 
 **[Planificari sustineri referate si aplicatii](https://docs.google.com/spreadsheets/d/1zY4np2BaDj3sSJQ__b7FywgrhnXgUFD9rPGASHOaSI8/edit?gid=0#gid=0)**
 
