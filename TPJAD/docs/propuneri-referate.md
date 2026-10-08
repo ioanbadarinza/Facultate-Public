@@ -1,77 +1,76 @@
 # Tehnologii si platforme Java pentru aplicatii distribuite, 2024 / 2025. Lista referatelor propuse
 
-2. Ant + Ivy – Manual de utilizare
-3. Maven – Manual de utilizare
-4. Framework-ul Struts 
-5. Framework-ul Spring (cu accent pe MVC)
-6. Framework-ul Play
-7. Framework-ul GWT (Google Web Toolkit)
-8. Groovy
-9. Scala programming language
-14. Java vs. C#
-15. Framework-ul Cocoon
-16. Framework-ul Makumba
-17. Framework-ul JOSSO
-18. Framework-ul Strecks
-19. Framework-ul Chrysalis
-20. Framework-ul jZeno
-21. Framework-ul ThinWire
-22. Framework-ul Chrysalis
-23. Framework-ul JVx
-24. Frameworkul web Java Wicket
-25. Tehnologia Tapestry
-26. Tehnologia Jxta
-27. Tehnologia Mentwai
-28. Tehnologia CORBA: interferente cu platforme Java
-29. Tehnologia Jini; Apache River
-30. Tehnologia JavaSpaces
-31. Sistemul Gnutella
-32. Sistemul Freenet
-33. Sistemul BitTorrent
-34. Sistemul Napster
-53. Hardcore Java: Mecanisme proxy
-54. Comunicatii prin RMI folosind IIOP
-55. Hardcore Java: Tipuri si elemente immutable
-56. API si utilizari ale pachetului JNDI
-57. RMI prin protocolul HTTP
-58. Hardcore Java: Aspecte practice ale reflexiei
-59. Servicii JTS ( Java Transaction Services)
-60. Hardcore Java: Clase nested
-61. Servicii FTP in Java
-62. Sistemele SETI@Home si BIONIC
-64. RMI cu activare
-68. Tabele hash distribuite (DHT): Chord in Java
-71. Conceptul de IOC (Inversion of Control)
-72. Ascunderea codului binary Java prin ofuscare
-74. Manevrarea threadurilor locale (ThreadLocal) in Java
-75. Comunicare intre obiecte JavaScript si appleturi
-76. HTML5: WebSockets
-77. Java reflection si aplicatii
-78. Concurenta in Java 21
-79. Java 8: Lambda Expressions
-80. Generarea documentelor Excel folosind Apache POI
-81. Java 21: Security
-82. Magnolia CMS
-83. Modalitati de stocare a datelor in Android
-84. Servicii HTTP in Android
-85. Apache Harmony
-86. Apache Hadoop
-87. Apache Cassandra
-90. Apache Geronimo
-91. Framework-ul CodeIgniter
-92. Framework-ul Apache Spark
-93. Framework-ul Apache Storm
-94. Framework-ul Apache Flink
-95. Project Lombok - Good and Bad practices
-96. Stream-uri in Java 8
-97. Limbajul Kotlin . 
-98. Tehnologia Pastry
-100. JNI(Java native interface)
-101. Framework-ul Vaadin
-102. Aspect Oriented Programming
-103. GraphQL vs REST
-105. Web Performance Optimization
-106. Dezvoltarea aplicațiilor Android în Java vs Kotlin
-107. "Lamp Stack" (Linux, Apache, MySQL, PHP)
-112. Peer 2 Peer protocols/applications
-113. Compare Spring vs. Dropwizard 
+1. Ant + Ivy – Manual de utilizare
+2. Maven – Manual de utilizare
+3. Framework-ul Struts
+4. Framework-ul Spring (cu accent pe MVC)
+5. Framework-ul Play
+6. Framework-ul GWT (Google Web Toolkit)
+7. Groovy
+8. Scala programming language
+9. Java vs. C#
+10. Framework-ul Cocoon
+11. Framework-ul Makumba
+12. Framework-ul JOSSO
+13. Framework-ul Strecks
+14. Framework-ul Chrysalis
+15. Framework-ul jZeno
+16. Framework-ul ThinWire
+17. Framework-ul JVx
+18. Frameworkul web Java Wicket
+19. Tehnologia Tapestry
+20. Tehnologia Jxta
+21. Tehnologia Mentwai
+22. Tehnologia CORBA: interferențe cu platforme Java
+23. Tehnologia Jini; Apache River
+24. Tehnologia JavaSpaces
+25. Sistemul Gnutella
+26. Sistemul Freenet
+27. Sistemul BitTorrent
+28. Sistemul Napster
+29. Hardcore Java: Mecanisme proxy
+30. Comunicații prin RMI folosind IIOP
+31. Hardcore Java: Tipuri și elemente immutable
+32. API și utilizări ale pachetului JNDI
+33. RMI prin protocolul HTTP
+34. Hardcore Java: Aspecte practice ale reflexiei
+35. Servicii JTS (Java Transaction Services)
+36. Hardcore Java: Clase nested
+37. Servicii FTP în Java
+38. Sistemele SETI@Home și BIONIC
+39. RMI cu activare
+40. Tabele hash distribuite (DHT): Chord în Java
+41. Conceptul de IoC (Inversion of Control)
+42. Ascunderea codului binar Java prin obfuscare
+43. Manevrarea threadurilor locale (ThreadLocal) în Java
+44. Comunicare între obiecte JavaScript și appleturi
+45. HTML5: WebSockets
+46. Java Reflection și aplicații
+47. Concurență în Java 21
+48. Java 8: Lambda Expressions
+49. Generarea documentelor Excel folosind Apache POI
+50. Java 21: Security
+51. Magnolia CMS
+52. Modalități de stocare a datelor în Android
+53. Servicii HTTP în Android
+54. Apache Harmony
+55. Apache Hadoop
+56. Apache Cassandra
+57. Apache Geronimo
+58. Framework-ul CodeIgniter
+59. Framework-ul Apache Spark
+60. Framework-ul Apache Storm
+61. Framework-ul Apache Flink
+62. Project Lombok – Good and Bad Practices
+63. Stream-uri în Java 8
+64. Limbajul Kotlin
+65. Tehnologia Pastry
+66. JNI (Java Native Interface)
+67. Framework-ul Vaadin
+68. Aspect Oriented Programming
+69. GraphQL vs REST
+70. Web Performance Optimization
+71. Dezvoltarea aplicațiilor Android în Java vs Kotlin
+72. "LAMP Stack" (Linux, Apache, MySQL, PHP)
+73. Peer-to-Peer Protocols/Applications
+74. Compare Spring vs. Dropwizard
