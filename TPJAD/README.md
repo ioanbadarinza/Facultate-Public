@@ -72,8 +72,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    cursului TPJAD. Alegerea temei de proiect se va face până la 10.11.2027. Un draft al conținutului proiectului va fi 
    discutat cu echipa prin mail / întâlnire online în cadrul seminarului.
 
-   - Pentru componentele view se recomandă folosirea unor tehnologii de nivel mai înalt decât JSP (în caz contrar este
-   posibilă depunctarea). Aceeași recomandare este valabilă pentru DataLayer, pentru a se folosi, dacă este posibil, 
+   - Pentru componentele view se recomandă folosirea unor tehnologii de nivel inalt. Aceeași recomandare este valabilă pentru DataLayer, pentru a se folosi, dacă este posibil, 
    tehnologii mai evoluate decât JDBC, cum ar fi Hibernate sau JPA.
    - Pentru fiecare proiect se cer:
       - Documentația proiectului care să respecte cerințe minimale docs! În plus, trebuie să conțină: arhitectura, 
