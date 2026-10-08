@@ -56,7 +56,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
       Se poate propune întocmirea unui referat pe o temă proprie, de comun acord cu cadrul didactic, dacă 
       tema propusă este adiacentă tematicii cursului TPJAD. Alegerea temei de referat se va face până la 10 noiembrie. 
     - Pentru acceptare se cere:
-         - minim 6 pagini (ar trebui minim 9 pagini)
+         - minim 9 pagini 
          - [format IEEE](https://www.ieee.org/conferences/publishing/templates.html)  (can be found in Overleaf too)
          - **Data limită pentru alegerea temei**: 10 noiembrie, se face prin completarea formularului: [Formular alegere tema referat](https://docs.google.com/forms/d/e/1FAIpQLSfVadGnQzDXGqD-zi1HzARnlRVM37EjwasDgujeNrbMbneJwA/viewform?usp=sf_link)
          - **Data limită de predare**: Seminar 5 (3 decembrie). Incarcarea se face prin completarea formularului: [Formular incarcare referat](https://docs.google.com/forms/d/e/1FAIpQLSeP_LVBJu53rEbixz53nidb3Sk94vqe6C14kC2eCJ6x4Tkpyw/viewform?usp=sf_link)
