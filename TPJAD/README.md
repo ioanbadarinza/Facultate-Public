@@ -46,7 +46,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    - Instalarea / configurarea pe calculatoarele proprii a următoarelor baze de date: PostgreSQL, MicrosoftSQL, OracleDB.
    - Realizarea unei aplicații care să folosească EJB, JPA, Servleturi, eventual JSP.
    - Aplicația va trebui să conțină cel putin cate un tabel in fiecare DB. Tabele din fiecare DB trebuie sa fie diferite si sa aibe legaturi intre ele.
-   - Aplicatia trebuie sa implemeteze toate actiunile CRUD (Create, Read, Update, Delete).
+   - Aplicatia trebuie sa implemeteze toate actiunile CRUD (Create, Read, Update, Delete). Una din paginile din aplicatie trebuie sa afiseze date din toate cele 3 baze de date. 
    - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)! (Trebuie sa includa o diagrama de arhitectura)
    - este necesara o interfata grafica de interactiune cu utilizatorul (User Interface)
    - **Data limită**: Seminar 4 (19 noiembrie)  
