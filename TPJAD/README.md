@@ -34,10 +34,12 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
      între ele (comunicare prin requesturi HTTP/Mesaje/etc. (similar cum ar comunica niste microservicii intre ele)). 
    - Deploy și execuție a aplicației pe urmatoarele servere in acelasi timp: Tomcat, Jetty și WildFly (nu din IDE (ex. IntelliJ))
    - este necesara o interfata grafica de interactiune cu utilizatorul (User Interface)
-   - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)!
+   - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)! (trebuie sa includa o diagrama de arhitectura despre cum comunica servleturile intre ele)
    
    - **Data limită**: Seminar 3 (5 noiembrie)
    (Întârzierile vor fi penalizate cu un punct pe săptămână).
+
+(Notita pentru 2027: sa fie folosite cozi de mesaje pentru comunicarea intre procesele care ruleaza in containere diferite)
 
 
 3. **Tema Baze de date** 
@@ -45,7 +47,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    - Realizarea unei aplicații care să folosească EJB, JPA, Servleturi, eventual JSP.
    - Aplicația va trebui să conțină cel putin cate un tabel in fiecare DB. Tabele din fiecare DB trebuie sa fie diferite si sa aibe legaturi intre ele.
    - Aplicatia trebuie sa implemeteze toate actiunile CRUD (Create, Read, Update, Delete).
-   - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)!
+   - Elaborarea unei documentații a aplicației care să respecte niște [cerințe minimale](docs/cerinte-minimale.md)! (Trebuie sa includa o diagrama de arhitectura)
    - este necesara o interfata grafica de interactiune cu utilizatorul (User Interface)
    - **Data limită**: Seminar 4 (19 noiembrie)  
     (Întârzierile vor fi penalizate cu un punct pe săptămână).
