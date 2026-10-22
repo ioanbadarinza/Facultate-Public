@@ -40,6 +40,7 @@ Există **5 cerințe obligatorii**, fiecare dintre ele necesitând o notă de tr
    (Întârzierile vor fi penalizate cu un punct pe săptămână).
 
 (Notita pentru 2027: sa fie folosite cozi de mesaje pentru comunicarea intre procesele care ruleaza in containere diferite)
+
 (Notita pentru 2027: acopere ce se intampla cand unul din servere nu este pornit (online)?)
 
 
